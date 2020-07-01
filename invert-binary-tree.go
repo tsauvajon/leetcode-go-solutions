@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/invert-binary-tree
+package main
 
 /**
  * Definition for a binary tree node.
